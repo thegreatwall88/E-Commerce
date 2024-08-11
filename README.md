@@ -29,7 +29,7 @@ No license
 ![Example Image](./Assets/images/demo2.png)
 
 ### Example Video
-[Watch the Video]()
+[Watch the Video](https://drive.google.com/file/d/1h0pdRCiIySBFAC_GYNKtZUbJmp8z27N9/view)
 
 * The URL of the deployed application.
 [link to the website](https://note-taker-r4nt.onrender.com/)
